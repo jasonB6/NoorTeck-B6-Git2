@@ -19,5 +19,5 @@ public class DemoTwo {
 	void divideThis(float a, float b) {
 		System.out.println(a/b);
 	}
-	
+	// On GitHub: click "edit this file" > edit code> add a Commit changes message> click "Commit changes"
 }
