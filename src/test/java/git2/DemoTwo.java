@@ -20,4 +20,10 @@ public class DemoTwo {
 		System.out.println(a/b);
 	}
 	// On GitHub: click "edit this file" > edit code> add a Commit changes message> click "Commit changes"
+	
+	/**To pull from GitHub: right click my project name 
+										> select "Team" 
+											> select "Push" (without the dot dot dot)
+												> done
+	*/
 }
