@@ -16,4 +16,8 @@ public class DemoTwo {
 		System.out.println(c/d);
 	}
 	
+	void divideThis(float a, float b) {
+		System.out.println(a/b);
+	}
+	
 }
